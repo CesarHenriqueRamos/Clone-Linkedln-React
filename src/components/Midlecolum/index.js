@@ -7,6 +7,7 @@ class Midlecolum extends React.Component{
    render(){
        return(
            <div className="midle">
+               <h2 className="h2-topo">Continue seu crescimento  Conte com a experiência da Pós FGV para continuar a se destacar no mercado.</h2>
                <div className="topo">
                     <form>
                         <input type="text" placeholder="Começar uma Publicação"/>

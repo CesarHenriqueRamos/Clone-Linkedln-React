@@ -13,6 +13,7 @@ class Main extends React.Component{
            <>
            <Header/>
            <div className="container">
+           
                <LeftColum />
                <MidleColum />
                <RightColum />

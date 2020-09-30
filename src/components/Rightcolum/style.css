@@ -5,10 +5,17 @@
 }
 .right{
     width: 30%;
-    height: 100vh;
+    height: 100vh; 
     float: left;
+    
+}
+.fixed{
+    height: 100%;
+    position: fixed;
+    margin-top: 100px;
 }
 .container-right{
+    
     padding: 10px;
     border:1px solid #ddd;
     margin-left: 10px;
